@@ -1,0 +1,14 @@
+{
+  "currentBlock": 4710332,
+  "delayBlock": 6,
+  "start_endBlock": -1,
+  "rpcuser": "",
+  "rpcpassword": "",
+  "rpcport": 2024,
+  "rpcurl": "localhost",
+  "MAX_RETRIES": 10,
+  "data_host": "localhost",
+  "data_user": "admin",
+  "data_password": "",
+  "database": ""
+}
