@@ -1,3 +1,5 @@
+our early version but still able to check address balance
+
 no support float number
 have hard upgrade at block 4891670
 
