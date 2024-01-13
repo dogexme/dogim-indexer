@@ -1,7 +1,8 @@
 our early version but still able to check address balance
 
-not support float number
-have hard upgrade at block 4891670
+not support float number need upgrade
+
+have hard upgrade at block 4891670 to extend transfer function
 
 If you plan to upgrade, please ensure that the upgrade takes place after a certain block and obtain community consensus.
 
