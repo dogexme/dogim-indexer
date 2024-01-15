@@ -7,7 +7,7 @@ have hard upgrade at block 4891670 to extend transfer function
 
 If you plan to upgrade, please ensure that the upgrade takes place after a certain block and obtain community consensus.
 
-
+make sure start block = 4710332
 
 `
   npm install pm2 -g
