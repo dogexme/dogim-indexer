@@ -1,4 +1,4 @@
-our early version but still able to check address balance
+our early version but still able to check address balance,only support dogim don't use this rep to index others or index from zero
 
 not support float number still need to upgrade.
 But it is not recommended to use default 18 decimal places; consensus should be reached with the community to upgrade and support decimals, and it is recommended to use 8 decimal places.
